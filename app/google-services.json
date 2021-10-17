@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626730715555",
+    "project_id": "ott-manager-bb7ac",
+    "storage_bucket": "ott-manager-bb7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626730715555:android:613be87bcafc1d976af216",
+        "android_client_info": {
+          "package_name": "com.example.ott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626730715555-3u4ojdcar556ql24jen3s7hgok18i1vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8Y0fOOAcks36Np9KaaSHst4CmKh2VtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626730715555-3u4ojdcar556ql24jen3s7hgok18i1vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
